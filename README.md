@@ -22,7 +22,7 @@ Base art generator code is from [hashlips_art_engine](https://github.com/HashLip
 
 Contract uses [NFTPort](https://nftport.xyz)
 
-Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
+Join the Discord server for more help from the community: [codeSTACKr Discord](https://docs.google.com/forms/d/e/1FAIpQLScHSIF_NDSie-LU-CRmVW-mldSATJxOHKBfnDjJO7c4RaBlgw/viewform)
 
 ## INSTALLATION
 

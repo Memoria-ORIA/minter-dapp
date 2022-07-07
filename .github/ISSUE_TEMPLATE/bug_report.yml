@@ -21,7 +21,7 @@ body:
     id: general
     attributes:
       label: General Question
-      description: Is this a general usage question? If so, visit the [discord server](https://discord.gg/A9CnsVzzkZ).
+      description: Is this a general usage question? If so, visit the [discord server](https://docs.google.com/forms/d/e/1FAIpQLScHSIF_NDSie-LU-CRmVW-mldSATJxOHKBfnDjJO7c4RaBlgw/viewform).
       options:
       - label: "No"
         required: true
